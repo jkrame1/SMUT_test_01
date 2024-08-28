@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-ReverseThrough-0.1.0";
+const cacheName = "Coppice-ReverseThrough-0.1.0";
 const contentToCache = [
     "Build/SMUT_test_01.loader.js",
     "Build/SMUT_test_01.framework.js",
